@@ -1,1 +1,3 @@
-# authentication-access-control
+# Authentication and Access Control
+
+  This Python program shows how authentication and role-based access control work. It uses two users, an admin and a regular user, with different permissions. The program simulates logging in as each user and checks which pages they are allowed to access. If a user tries to access a page they don't have permission for, access is denied. This relates to confidentiality in the CIA triad because it helps prevent users from accessing information they shouldn't have access to. By assigning different permissions to each role, the program shows how access control can help keep information secure. 
